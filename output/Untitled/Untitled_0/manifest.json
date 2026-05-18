@@ -1,0 +1,172 @@
+{
+  "input_file": "Untitled.svg",
+  "run": 0,
+  "base_values": {
+    "amplitude": 0.03,
+    "frequency": 1.5,
+    "octaves": 4,
+    "persistence": 0.5,
+    "subdivision": 8,
+    "bias": 0.0,
+    "smoothness": 1,
+    "seed": 42
+  },
+  "variations": [
+    {
+      "id": "V1",
+      "file": "Untitled_0_V1.svg",
+      "params": {
+        "amplitude": 0.01,
+        "frequency": 1.5,
+        "octaves": 2,
+        "persistence": 0.5,
+        "subdivision": 8,
+        "bias": 0.0,
+        "smoothness": 1
+      }
+    },
+    {
+      "id": "V2",
+      "file": "Untitled_0_V2.svg",
+      "params": {
+        "amplitude": 0.01,
+        "frequency": 1.5,
+        "octaves": 4,
+        "persistence": 0.5,
+        "subdivision": 8,
+        "bias": 0.0,
+        "smoothness": 1
+      }
+    },
+    {
+      "id": "V3",
+      "file": "Untitled_0_V3.svg",
+      "params": {
+        "amplitude": 0.01,
+        "frequency": 1.5,
+        "octaves": 6,
+        "persistence": 0.5,
+        "subdivision": 8,
+        "bias": 0.0,
+        "smoothness": 1
+      }
+    },
+    {
+      "id": "V4",
+      "file": "Untitled_0_V4.svg",
+      "params": {
+        "amplitude": 0.03333333333333333,
+        "frequency": 1.5,
+        "octaves": 2,
+        "persistence": 0.5,
+        "subdivision": 8,
+        "bias": 0.0,
+        "smoothness": 1
+      }
+    },
+    {
+      "id": "V5",
+      "file": "Untitled_0_V5.svg",
+      "params": {
+        "amplitude": 0.03333333333333333,
+        "frequency": 1.5,
+        "octaves": 4,
+        "persistence": 0.5,
+        "subdivision": 8,
+        "bias": 0.0,
+        "smoothness": 1
+      }
+    },
+    {
+      "id": "V6",
+      "file": "Untitled_0_V6.svg",
+      "params": {
+        "amplitude": 0.03333333333333333,
+        "frequency": 1.5,
+        "octaves": 6,
+        "persistence": 0.5,
+        "subdivision": 8,
+        "bias": 0.0,
+        "smoothness": 1
+      }
+    },
+    {
+      "id": "V7",
+      "file": "Untitled_0_V7.svg",
+      "params": {
+        "amplitude": 0.05666666666666667,
+        "frequency": 1.5,
+        "octaves": 2,
+        "persistence": 0.5,
+        "subdivision": 8,
+        "bias": 0.0,
+        "smoothness": 1
+      }
+    },
+    {
+      "id": "V8",
+      "file": "Untitled_0_V8.svg",
+      "params": {
+        "amplitude": 0.05666666666666667,
+        "frequency": 1.5,
+        "octaves": 4,
+        "persistence": 0.5,
+        "subdivision": 8,
+        "bias": 0.0,
+        "smoothness": 1
+      }
+    },
+    {
+      "id": "V9",
+      "file": "Untitled_0_V9.svg",
+      "params": {
+        "amplitude": 0.05666666666666667,
+        "frequency": 1.5,
+        "octaves": 6,
+        "persistence": 0.5,
+        "subdivision": 8,
+        "bias": 0.0,
+        "smoothness": 1
+      }
+    },
+    {
+      "id": "V10",
+      "file": "Untitled_0_V10.svg",
+      "params": {
+        "amplitude": 0.08,
+        "frequency": 1.5,
+        "octaves": 2,
+        "persistence": 0.5,
+        "subdivision": 8,
+        "bias": 0.0,
+        "smoothness": 1
+      }
+    },
+    {
+      "id": "V11",
+      "file": "Untitled_0_V11.svg",
+      "params": {
+        "amplitude": 0.08,
+        "frequency": 1.5,
+        "octaves": 4,
+        "persistence": 0.5,
+        "subdivision": 8,
+        "bias": 0.0,
+        "smoothness": 1
+      }
+    },
+    {
+      "id": "V12",
+      "file": "Untitled_0_V12.svg",
+      "params": {
+        "amplitude": 0.08,
+        "frequency": 1.5,
+        "octaves": 6,
+        "persistence": 0.5,
+        "subdivision": 8,
+        "bias": 0.0,
+        "smoothness": 1
+      }
+    }
+  ]
+}

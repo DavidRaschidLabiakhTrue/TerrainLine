@@ -1,0 +1,27 @@
+{
+  "crumple": {
+    "amplitude":   { "value": 0.03, "spectrum": { "min": 0.01, "max": 0.08, "steps": 4 } },
+    "frequency":   { "value": 1.5,  "spectrum": null },
+    "octaves":     { "value": 4,    "spectrum": { "min": 2, "max": 6, "steps": 3 } },
+    "persistence": { "value": 0.5,  "spectrum": null },
+    "subdivision": { "value": 8,    "spectrum": null },
+    "bias":        { "value": 0.0,  "spectrum": null },
+    "smoothness":  { "value": 1,    "spectrum": null },
+    "seed":        42
+  },
+  "paths": {
+    "closed_shape_mode": "preserve_closure",
+    "open_path_mode": "preserve_endpoints"
+  },
+  "bands": {
+    "enabled": false,
+    "count": 3,
+    "spacing": 10,
+    "direction": "outward",
+    "crumple_variance": 0.3
+  },
+  "output": {
+    "format": "polyline",
+    "precision": 2
+  }
+}
