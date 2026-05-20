@@ -1,6 +1,6 @@
 # TerrainLine
 
-SVG Crumpling Program
+SVG Crumpling Program made for a diving video game called Drifting Dreams.
 
 Turn boring SVG shapes into hand-drawn, terrain-style line art. Good for fantasy maps, generative art, zines, or anything that should look a little less perfect.
 
